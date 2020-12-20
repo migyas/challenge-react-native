@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Blusa",
+      "price": 25
+    },
+    {
+      "id": 2,
+      "title": "Short",
+      "price": 50
+    }
+   
+  ],
+  "stock": [
+    {
+      "id": 1,
+      "quantity": 5
+    },
+    {
+      "id": 2,
+      "quantity": 3
+    }
+  ]
+}
