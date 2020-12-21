@@ -7,7 +7,7 @@
 Clone the repository.
 
 ```bash
-git clone https://github.com/emersonbrs/rocketshoes-mobile
+git clone https://github.com/migyas/challenge-react-native.git
 ```
 
 Install the application in your device:
