@@ -1,25 +1,50 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "title": "Blusa",
-      "price": 25
-    },
-    {
-      "id": 2,
-      "title": "Short",
-      "price": 50
-    }
-   
-  ],
   "stock": [
     {
       "id": 1,
-      "quantity": 5
+      "amount": 3
     },
     {
       "id": 2,
-      "quantity": 3
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Tênis",
+      "price": 179
+    },
+    {
+      "id": 2,
+      "title": "Tênis VR",
+      "price": 139
+    },
+    {
+      "id": 3,
+      "title": "Tênis Adidas",
+      "price": 219
+    },
+    {
+      "id": 5,
+      "title": "Tênis NikeSB ",
+      "price": 139
     }
   ]
 }

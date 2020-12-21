@@ -18,7 +18,17 @@ const AuthRoutes = () => (
                 },
                 headerTintColor: '#fff'
             }} />
-        <Auth.Screen name="Carrinho" component={Cart} />
+        <Auth.Screen
+            name="Carrinho"
+            component={Cart}
+            options={{
+                title: 'Seu Carrinho',
+                headerStyle: {
+                    backgroundColor: '#7159C1'
+                },
+                headerTintColor: '#fff'
+            }}
+        />
     </Auth.Navigator>
 );
 
